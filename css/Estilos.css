@@ -1,0 +1,77 @@
+
+
+
+a {
+    color: deepskyblue;
+}
+
+p {
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#Curiosidades {
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.imagen {
+    width: 40%;
+    border: 5px solid red;
+    float: right;
+}
+
+
+body{
+    background-color: lightpink;
+    }
+    #encabezado {
+        font-family: 'Courier New', Courier, monospace;
+     font-size: 100%;
+     color: #fa8572;
+    background-color: #155263;
+    }
+    
+    .titulo {
+    text-align: left;
+    
+    color: #fa8572;
+        border-style: solid;
+        border-width: 1px;
+        padding: 10px;
+        width: 315px;
+        border: 2;
+    
+    }
+    
+    
+    
+    #imagenes {
+        padding-left: 55px;
+    background-color: #ff6f3c;
+    }
+    
+    img { 
+        width: 30%;
+    }
+    
+    #cuerpo {
+        background-color: #ff9a3c;
+    }
+    
+    .txt {
+    
+        font-family:'Courier New', Courier, monospace;
+        font-size: 12pt;
+        color: honeydew;
+    }
+    
+    #final {
+        background-color: #ffc93c;
+    }
+    
+    .fl {
+    
+        color: lightgrey;
+    }
